@@ -1,0 +1,6 @@
+{
+  "name": "Burger POS & Invoicing | نظام كاشير وفواتير مطعم برجر",
+  "description": "نظام متكامل لنقاط البيع وإدارة الطلبات وطباعة الفواتير الحرارية والضريبية لمطاعم البرجر مع شاشة المطبخ وتقارير الورديات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

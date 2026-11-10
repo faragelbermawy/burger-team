@@ -1,0 +1,1978 @@
+[
+  {
+    "id": "burger-beef-classic",
+    "code": "B-01",
+    "nameAr": "برجر لحم كلاسيك",
+    "nameEn": "Classic Beef Burger",
+    "descriptionAr": "برجر لحم مشوي طازج بالطريقة الكلاسيكية مع صوص برجر تيم وخضار طازجة في خبز طري.",
+    "descriptionEn": "Grilled beef patty with fresh lettuce, tomato, pickles, and Burger Team sauce.",
+    "category": "burgers",
+    "basePrice": 10,
+    "image": "/assets/images/hero_smash_burger_1794201940251.jpg",
+    "calories": 524,
+    "inStock": true,
+    "stockCount": 60,
+    "isPopular": true,
+    "bunOptions": [
+      {
+        "id": "regular",
+        "nameAr": "خبز برجر سمسم كلاسيك",
+        "nameEn": "Classic Sesame Bun"
+      },
+      {
+        "id": "brioche",
+        "nameAr": "خبز بريوش طري",
+        "nameEn": "Brioche Bun"
+      }
+    ],
+    "removableIngredients": [
+      {
+        "id": "no-onions",
+        "nameAr": "بدون بصل",
+        "nameEn": "No Onions"
+      },
+      {
+        "id": "no-pickles",
+        "nameAr": "بدون مخلل",
+        "nameEn": "No Pickles"
+      },
+      {
+        "id": "no-sauce",
+        "nameAr": "بدون صوص",
+        "nameEn": "No Sauce"
+      }
+    ],
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "burger-chicken-classic",
+    "code": "B-02",
+    "nameAr": "برجر دجاج كلاسيك",
+    "nameEn": "Classic Chicken Burger",
+    "descriptionAr": "شريحة دجاج متبلة ومشوية مع الخس والمايونيز وصوص تيم الخاص.",
+    "descriptionEn": "Grilled chicken fillet seasoned to perfection with crisp lettuce and mayo.",
+    "category": "burgers",
+    "basePrice": 10,
+    "image": "/assets/images/crispy_chicken_burger_1794201940611.jpg",
+    "calories": 424,
+    "inStock": true,
+    "stockCount": 50,
+    "isPopular": true,
+    "bunOptions": [
+      {
+        "id": "regular",
+        "nameAr": "خبز برجر عادي",
+        "nameEn": "Regular Bun"
+      },
+      {
+        "id": "brioche",
+        "nameAr": "خبز بريوش",
+        "nameEn": "Brioche Bun"
+      }
+    ],
+    "removableIngredients": [
+      {
+        "id": "no-sauce",
+        "nameAr": "بدون صوص",
+        "nameEn": "No Sauce"
+      },
+      {
+        "id": "no-lettuce",
+        "nameAr": "بدون خس",
+        "nameEn": "No Lettuce"
+      }
+    ],
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "burger-beef-stuffed-cheese",
+    "code": "B-03",
+    "nameAr": "برجر لحم محشي جبن",
+    "nameEn": "Cheese-Stuffed Beef Burger",
+    "descriptionAr": "قطعة لحم غنية محشوة من الداخل بجبنة شيدر وموزاريلا ذائبة تسيل مع القضم.",
+    "descriptionEn": "Juicy beef patty stuffed with melted gooey cheddar and mozzarella cheese.",
+    "category": "burgers",
+    "basePrice": 15,
+    "image": "/assets/images/hero_smash_burger_1794201940251.jpg",
+    "calories": 412,
+    "inStock": true,
+    "stockCount": 40,
+    "isPopular": true,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "burger-chicken-stuffed-cheese",
+    "code": "B-04",
+    "nameAr": "برجر دجاج محشي جبن",
+    "nameEn": "Cheese-Stuffed Chicken Burger",
+    "descriptionAr": "دجاج متبل بخلطة برجر تيم ومحشو بالجبنة السائلة الفاخرة.",
+    "descriptionEn": "Seasoned chicken fillet stuffed with melted premium molten cheese.",
+    "category": "burgers",
+    "basePrice": 15,
+    "image": "/assets/images/crispy_chicken_burger_1794201940611.jpg",
+    "calories": 425,
+    "inStock": true,
+    "stockCount": 40,
+    "isPopular": true,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "burger-team-chicken",
+    "code": "B-05",
+    "nameAr": "برجر تيم دجاج",
+    "nameEn": "Burger Team Chicken",
+    "descriptionAr": "ساندوتش توقيع المحل الخاص بالدجاج مع الخلطة والصلصة السرية المميزة لبرجر تيم.",
+    "descriptionEn": "Signature Burger Team special chicken recipe with exclusive secret team sauce.",
+    "category": "burgers",
+    "basePrice": 17,
+    "image": "/assets/images/crispy_chicken_burger_1794201940611.jpg",
+    "calories": 416,
+    "inStock": true,
+    "stockCount": 45,
+    "isPopular": true,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "burger-team-beef",
+    "code": "B-06",
+    "nameAr": "برجر تيم لحم",
+    "nameEn": "Burger Team Beef",
+    "descriptionAr": "ساندوتش التوقيع الأسطوري لبرجر تيم باللحم الطازج الفاخر وطبقات الصوص الغنية.",
+    "descriptionEn": "The flagship Burger Team Beef signature with prime beef and special toppings.",
+    "category": "burgers",
+    "basePrice": 18,
+    "image": "/assets/images/avocado_bacon_burger_1794229258158.jpg",
+    "calories": 566,
+    "inStock": true,
+    "stockCount": 45,
+    "isPopular": true,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "burger-crispy-chicken",
+    "code": "B-07",
+    "nameAr": "برجر كرسبي دجاج",
+    "nameEn": "Crispy Chicken Burger",
+    "descriptionAr": "دجاج مقلي ذهبي فائق القرمشة مع خس ومايونيز وصوص تيم المقرمش.",
+    "descriptionEn": "Ultra crispy golden fried chicken with cool lettuce and signature mayo.",
+    "category": "burgers",
+    "basePrice": 12,
+    "image": "/assets/images/crispy_chicken_burger_1794201940611.jpg",
+    "calories": 280,
+    "inStock": true,
+    "stockCount": 50,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "burger-zinger",
+    "code": "B-08",
+    "nameAr": "زنجر",
+    "nameEn": "Zinger Burger",
+    "descriptionAr": "ساندوتش زنجر الدجاج الحار والمقرمش مع بهارات الشطة الحارة وصوص الزنجر.",
+    "descriptionEn": "Spicy crispy zinger chicken breast with fiery seasoning and tangy sauce.",
+    "category": "burgers",
+    "basePrice": 12,
+    "image": "/assets/images/crispy_chicken_burger_1794201940611.jpg",
+    "calories": 302,
+    "inStock": true,
+    "stockCount": 40,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "chicken-nuggets",
+    "code": "B-09",
+    "nameAr": "دجاج ناقت",
+    "nameEn": "Chicken Nuggets",
+    "descriptionAr": "قطع ناجتس دجاج مقرمشة وشهية تقدم مع صوص الكاتشب أو المايونيز.",
+    "descriptionEn": "Tender bite-sized chicken nuggets golden fried to perfection.",
+    "category": "burgers",
+    "basePrice": 10,
+    "image": "/assets/images/craft_burger_combo_1794201941193.jpg",
+    "calories": 295,
+    "inStock": true,
+    "stockCount": 60,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "dynamite-shrimp",
+    "code": "B-10",
+    "nameAr": "ديناميت روبيان",
+    "nameEn": "Dynamite Shrimp",
+    "descriptionAr": "حبات روبيان مقلية مقرمشة مغطاة بصوص الديناميت الكريمي الحار الشهير.",
+    "descriptionEn": "Crispy fried shrimp tossed in creamy spicy dynamite sauce.",
+    "category": "burgers",
+    "basePrice": 12,
+    "image": "/assets/images/loaded_cheese_fries_1794201941317.jpg",
+    "calories": 488,
+    "inStock": true,
+    "stockCount": 35,
+    "isPopular": true,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "dynamite-chicken",
+    "code": "B-11",
+    "nameAr": "ديناميت دجاج",
+    "nameEn": "Dynamite Chicken",
+    "descriptionAr": "قطع دجاج مقرمشة كرانشي مغمورة بصلصة الديناميت الحارة اللذيذة.",
+    "descriptionEn": "Crispy chicken bites coated in tangy and spicy dynamite glaze.",
+    "category": "burgers",
+    "basePrice": 12,
+    "image": "/assets/images/loaded_cheese_fries_1794201941317.jpg",
+    "calories": 405,
+    "inStock": true,
+    "stockCount": 40,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "sand-fried-egg",
+    "code": "S-01",
+    "nameAr": "بيض مقلي",
+    "nameEn": "Fried Egg Sandwich",
+    "descriptionAr": "ساندوتش بيض مقلي طازج متبل بالفلفل الأسود والملح في خبز صامولي طري.",
+    "descriptionEn": "Fresh fried egg sandwich lightly seasoned in soft bun.",
+    "category": "sandwiches",
+    "basePrice": 2,
+    "image": "/assets/images/craft_burger_combo_1794201941193.jpg",
+    "calories": 335,
+    "inStock": true,
+    "stockCount": 100,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "sand-boiled-egg",
+    "code": "S-02",
+    "nameAr": "بيض مسلوق",
+    "nameEn": "Boiled Egg Sandwich",
+    "descriptionAr": "ساندوتش بيض مسلوق صحي ومغذي مع لمسة كمون ورشة زيت زيتون.",
+    "descriptionEn": "Healthy hard-boiled egg sandwich with light seasoning.",
+    "category": "sandwiches",
+    "basePrice": 2,
+    "image": "/assets/images/craft_burger_combo_1794201941193.jpg",
+    "calories": 290,
+    "inStock": true,
+    "stockCount": 80,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "sand-egg-cheese",
+    "code": "S-03",
+    "nameAr": "بيض بالجبن",
+    "nameEn": "Egg with Cheese Sandwich",
+    "descriptionAr": "بيض مقلي ساخن مع شريحة جبنة ذائبة غنية ولذيذة.",
+    "descriptionEn": "Hot fried egg topped with gooey melted American cheese.",
+    "category": "sandwiches",
+    "basePrice": 4,
+    "image": "/assets/images/craft_burger_combo_1794201941193.jpg",
+    "calories": 385,
+    "inStock": true,
+    "stockCount": 90,
+    "isPopular": true,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "sand-shakshuka",
+    "code": "S-04",
+    "nameAr": "شكشوكة",
+    "nameEn": "Shakshouka Sandwich",
+    "descriptionAr": "شكشوكة بلدي مطهوة بالطماطم والبصل والفلفل الأخضر والبهارات.",
+    "descriptionEn": "Traditional seasoned shakshuka eggs simmered with tomatoes and spices.",
+    "category": "sandwiches",
+    "basePrice": 3,
+    "image": "/assets/images/craft_burger_combo_1794201941193.jpg",
+    "calories": 273,
+    "inStock": true,
+    "stockCount": 70,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "sand-mixed-cheese",
+    "code": "S-05",
+    "nameAr": "جبن مشكل",
+    "nameEn": "Mixed Cheese Sandwich",
+    "descriptionAr": "مزيج لذيذ من الأجبان الذائبة المشكلة مع لمسة زعتر.",
+    "descriptionEn": "Warm melted medley of selected artisan cheeses.",
+    "category": "sandwiches",
+    "basePrice": 3,
+    "image": "/assets/images/craft_burger_combo_1794201941193.jpg",
+    "calories": 246,
+    "inStock": true,
+    "stockCount": 80,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "sand-falafel",
+    "code": "S-06",
+    "nameAr": "فلافل",
+    "nameEn": "Falafel Sandwich",
+    "descriptionAr": "حبات فلافل مقرمشة مع الطماطم، الخيار، وصوص الطحينة البلدي.",
+    "descriptionEn": "Crispy falafel balls with tomatoes, cucumber and tahini.",
+    "category": "sandwiches",
+    "basePrice": 3,
+    "image": "/assets/images/craft_burger_combo_1794201941193.jpg",
+    "calories": 178,
+    "inStock": true,
+    "stockCount": 100,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "sand-falafel-mixed",
+    "code": "S-07",
+    "nameAr": "فلافل مشكل",
+    "nameEn": "Mixed Falafel Sandwich",
+    "descriptionAr": "فلافل مقرمشة مع باذنجان، بطاطس مقلية، بيض مسلوق وطحينة فاخرة.",
+    "descriptionEn": "Falafel with fried eggplant, potatoes, boiled egg and creamy sauce.",
+    "category": "sandwiches",
+    "basePrice": 5,
+    "image": "/assets/images/craft_burger_combo_1794201941193.jpg",
+    "calories": 245,
+    "inStock": true,
+    "stockCount": 80,
+    "isPopular": true,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "sand-minced-meat",
+    "code": "S-08",
+    "nameAr": "ساندويش لحم مفروم",
+    "nameEn": "Minced Meat Sandwich",
+    "descriptionAr": "لحم مفروم مطبوخ على الصاج مع البصل والبهارات الشرقية اللذيذة.",
+    "descriptionEn": "Savory sautéed spiced minced meat in fresh bread.",
+    "category": "sandwiches",
+    "basePrice": 3,
+    "image": "/assets/images/hero_smash_burger_1794201940251.jpg",
+    "calories": 509,
+    "inStock": true,
+    "stockCount": 60,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "sand-liver",
+    "code": "S-09",
+    "nameAr": "ساندويش كبدة",
+    "nameEn": "Liver Sandwich",
+    "descriptionAr": "كبدة طازجة مطهوة على الصاج مع الفلفل الأخضر، الثوم وعصير الليمون.",
+    "descriptionEn": "Fresh sautéed liver with green pepper, garlic, and tangy lime.",
+    "category": "sandwiches",
+    "basePrice": 4,
+    "image": "/assets/images/hero_smash_burger_1794201940251.jpg",
+    "calories": 395,
+    "inStock": true,
+    "stockCount": 50,
+    "isPopular": true,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "sand-mexican-chicken",
+    "code": "S-10",
+    "nameAr": "دجاج مكسيكي",
+    "nameEn": "Mexican Chicken Sandwich",
+    "descriptionAr": "قطع دجاج متبلة بالخلطة المكسيكية مع الفلفل الرومي والذرة والصلصة الحارة.",
+    "descriptionEn": "Zesty fajita-style Mexican spiced chicken with peppers and sauce.",
+    "category": "sandwiches",
+    "basePrice": 3,
+    "image": "/assets/images/crispy_chicken_burger_1794201940611.jpg",
+    "calories": 179,
+    "inStock": true,
+    "stockCount": 65,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "sand-hotdog",
+    "code": "S-11",
+    "nameAr": "نقانق",
+    "nameEn": "Hot Dog Sandwich",
+    "descriptionAr": "ساندوتش نقانق مشوية مع الكاتشب والمايونيز والمستردة.",
+    "descriptionEn": "Classic hot dog sausage grilled and served with classic dips.",
+    "category": "sandwiches",
+    "basePrice": 3,
+    "image": "/assets/images/craft_burger_combo_1794201941193.jpg",
+    "calories": 300,
+    "inStock": true,
+    "stockCount": 70,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "sand-kebab",
+    "code": "S-12",
+    "nameAr": "ساندويش كباب",
+    "nameEn": "Kebab Sandwich",
+    "descriptionAr": "سيخ كباب مشوي ومتبل مع سلطة وطحينة في خبز طري.",
+    "descriptionEn": "Grilled seasoned kebab skewer with fresh tahini salad.",
+    "category": "sandwiches",
+    "basePrice": 4,
+    "image": "/assets/images/hero_smash_burger_1794201940251.jpg",
+    "calories": 300,
+    "inStock": true,
+    "stockCount": 50,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "side-fries-small",
+    "code": "SD-01",
+    "nameAr": "بطاطس صغير",
+    "nameEn": "Small French Fries",
+    "descriptionAr": "أصابع بطاطس مقلية ذهبية مقرمشة ومملحة بحجم فردي.",
+    "descriptionEn": "Golden crispy salted french fries (Small).",
+    "category": "sides",
+    "basePrice": 5,
+    "image": "/assets/images/loaded_cheese_fries_1794201941317.jpg",
+    "calories": 250,
+    "inStock": true,
+    "stockCount": 150,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "side-fries-large",
+    "code": "SD-02",
+    "nameAr": "بطاطس كبير",
+    "nameEn": "Large French Fries",
+    "descriptionAr": "حصة كبيرة من البطاطس المقرمشة اللذيذة تكفي للمشاركة.",
+    "descriptionEn": "Generous portion of crisp golden fries (Large).",
+    "category": "sides",
+    "basePrice": 10,
+    "image": "/assets/images/loaded_cheese_fries_1794201941317.jpg",
+    "calories": 250,
+    "inStock": true,
+    "stockCount": 120,
+    "isPopular": true,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "side-fries-cheese",
+    "code": "SD-03",
+    "nameAr": "بطاطس بالجبن",
+    "nameEn": "Cheese Fries",
+    "descriptionAr": "بطاطس مقلية مغطاة بصوص جبنة الشيدر الساخنة الذائبة.",
+    "descriptionEn": "Hot golden fries smothered in melted cheddar cheese sauce.",
+    "category": "sides",
+    "basePrice": 12,
+    "image": "/assets/images/loaded_cheese_fries_1794201941317.jpg",
+    "calories": 250,
+    "inStock": true,
+    "stockCount": 80,
+    "isPopular": true,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "side-fries-lqawis",
+    "code": "SD-04",
+    "nameAr": "بطاطس لقاويس",
+    "nameEn": "Lqawis Fries (House Special)",
+    "descriptionAr": "بطاطس لقاويس الخاصة مع بهارات وصلصة برجر تيم المبتكرة.",
+    "descriptionEn": "Special seasoned Lqawis fries with house signature sauce.",
+    "category": "sides",
+    "basePrice": 15,
+    "image": "/assets/images/loaded_cheese_fries_1794201941317.jpg",
+    "calories": 250,
+    "inStock": true,
+    "stockCount": 60,
+    "isPopular": true,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "side-fries-beef",
+    "code": "SD-05",
+    "nameAr": "فرايز لحم",
+    "nameEn": "Loaded Beef Fries",
+    "descriptionAr": "بطاطس لودد مع قطع اللحم المشوي، الجبن السائل، ورشة بهارات وصوص.",
+    "descriptionEn": "Loaded fries topped with minced savory beef, molten cheese and sauce.",
+    "category": "sides",
+    "basePrice": 20,
+    "image": "/assets/images/loaded_cheese_fries_1794201941317.jpg",
+    "calories": 250,
+    "inStock": true,
+    "stockCount": 45,
+    "isPopular": true,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "side-fries-chicken",
+    "code": "SD-06",
+    "nameAr": "فرايز دجاج",
+    "nameEn": "Loaded Chicken Fries",
+    "descriptionAr": "بطاطس مغطاة بقطع الدجاج المقرمش، صوص الجبن والصلصة الخاصة.",
+    "descriptionEn": "Crispy fries topped with seasoned chicken tenders and cheese drizzle.",
+    "category": "sides",
+    "basePrice": 20,
+    "image": "/assets/images/loaded_cheese_fries_1794201941317.jpg",
+    "calories": 204,
+    "inStock": true,
+    "stockCount": 45,
+    "isPopular": true,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "side-fries-shrimp",
+    "code": "SD-07",
+    "nameAr": "فرايز روبيان",
+    "nameEn": "Loaded Shrimp Fries",
+    "descriptionAr": "طبق بطاطس فاخر مغطى بالروبيان المقلي وصوص الديناميت والجبن.",
+    "descriptionEn": "Crispy fries loaded with fried shrimp and dynamite cheese sauce.",
+    "category": "sides",
+    "basePrice": 22,
+    "image": "/assets/images/loaded_cheese_fries_1794201941317.jpg",
+    "calories": 189,
+    "inStock": true,
+    "stockCount": 30,
+    "isPopular": true,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "toast-labneh-zaatar",
+    "code": "T-01",
+    "nameAr": "لبنة زعتر",
+    "nameEn": "Labneh & Zaatar Toast",
+    "descriptionAr": "توست بريد محمص مع لبنة طازجة وزعتر بلدي بزيت الزيتون.",
+    "descriptionEn": "Warm toasted bread topped with fresh creamy labneh and fragrant zaatar.",
+    "category": "toast",
+    "basePrice": 4,
+    "image": "/assets/images/craft_burger_combo_1794201941193.jpg",
+    "calories": 293,
+    "inStock": true,
+    "stockCount": 50,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "toast-tuna",
+    "code": "T-02",
+    "nameAr": "تونه",
+    "nameEn": "Tuna Toast",
+    "descriptionAr": "توست محمص مع خلطة التونة الشهية والمايونيز والليمون.",
+    "descriptionEn": "Toasted bread filled with seasoned tuna, mayo, and lemon drizzle.",
+    "category": "toast",
+    "basePrice": 4,
+    "image": "/assets/images/craft_burger_combo_1794201941193.jpg",
+    "calories": 415,
+    "inStock": true,
+    "stockCount": 45,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "toast-cheese-zaatar",
+    "code": "T-03",
+    "nameAr": "جبن زعتر",
+    "nameEn": "Cheese & Zaatar Toast",
+    "descriptionAr": "توست محمص بحشوة الجبن الذائب مع رشة الزعتر العطري.",
+    "descriptionEn": "Melted cheese toast sprinkled with aromatic Mediterranean zaatar.",
+    "category": "toast",
+    "basePrice": 4,
+    "image": "/assets/images/craft_burger_combo_1794201941193.jpg",
+    "calories": 302,
+    "inStock": true,
+    "stockCount": 60,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "toast-egg-cheese-bread",
+    "code": "T-04",
+    "nameAr": "بيض جبن بريد",
+    "nameEn": "Egg & Cheese Toast",
+    "descriptionAr": "توست محمص مع البيض الطازج وشريحة الجبن الذائبة.",
+    "descriptionEn": "Golden toasted bread sandwich with fried egg and melted cheese.",
+    "category": "toast",
+    "basePrice": 5,
+    "image": "/assets/images/craft_burger_combo_1794201941193.jpg",
+    "calories": 385,
+    "inStock": true,
+    "stockCount": 70,
+    "isPopular": true,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "drink-pepsi",
+    "code": "D-01",
+    "nameAr": "بيبسي",
+    "nameEn": "Pepsi",
+    "descriptionAr": "مشروب بيبسي غازي بارد ومنعش.",
+    "descriptionEn": "Chilled refreshing Pepsi can.",
+    "category": "drinks",
+    "basePrice": 3,
+    "image": "/assets/images/craft_burger_combo_1794201941193.jpg",
+    "calories": 140,
+    "inStock": true,
+    "stockCount": 200
+  },
+  {
+    "id": "drink-water",
+    "code": "D-02",
+    "nameAr": "ماء",
+    "nameEn": "Mineral Water",
+    "descriptionAr": "مياه معدنية نقية وباردة.",
+    "descriptionEn": "Pure bottled drinking water.",
+    "category": "drinks",
+    "basePrice": 1,
+    "image": "/assets/images/craft_burger_combo_1794201941193.jpg",
+    "calories": 0,
+    "inStock": true,
+    "stockCount": 300
+  },
+  {
+    "id": "drink-rabita",
+    "code": "D-03",
+    "nameAr": "ربيتا",
+    "nameEn": "Rabita Drink",
+    "descriptionAr": "مشروب ربيتا المنعش بنكهات الفواكه الباردة.",
+    "descriptionEn": "Refreshing chilled Rabita juice drink.",
+    "category": "drinks",
+    "basePrice": 2,
+    "image": "/assets/images/craft_burger_combo_1794201941193.jpg",
+    "calories": 110,
+    "inStock": true,
+    "stockCount": 150,
+    "sizes": [
+      {
+        "id": "single",
+        "nameAr": "عادي (2 ريال)",
+        "nameEn": "Regular (2 SAR)",
+        "extraPrice": 0
+      },
+      {
+        "id": "double",
+        "nameAr": "كبير (3.5 ريال)",
+        "nameEn": "Large (3.5 SAR)",
+        "extraPrice": 1.5
+      }
+    ]
+  },
+  {
+    "id": "drink-cola",
+    "code": "D-04",
+    "nameAr": "كولا",
+    "nameEn": "Cola",
+    "descriptionAr": "مشروب كولا مثلج ومنعش.",
+    "descriptionEn": "Ice cold Cola beverage.",
+    "category": "drinks",
+    "basePrice": 3,
+    "image": "/assets/images/craft_burger_combo_1794201941193.jpg",
+    "calories": 140,
+    "inStock": true,
+    "stockCount": 180
+  },
+  {
+    "id": "spec-grape-leaves",
+    "code": "DS-01",
+    "nameAr": "ورق عنب",
+    "nameEn": "Stuffed Grape Leaves",
+    "descriptionAr": "ورق عنب طازج متبل بدبس الرمان وعصير الليمون وزيت الزيتون.",
+    "descriptionEn": "Delicate vine leaves stuffed with savory rice and pomegranate molasses.",
+    "category": "desserts",
+    "basePrice": 5,
+    "image": "/assets/images/craft_burger_combo_1794201941193.jpg",
+    "calories": 180,
+    "inStock": true,
+    "stockCount": 50,
+    "isPopular": true,
+    "availableToppings": [
+      {
+        "id": "fries-pepsi",
+        "nameAr": "بطاطس + بيبسي (كومبو)",
+        "nameEn": "Fries + Pepsi Combo",
+        "price": 6
+      },
+      {
+        "id": "extra-cheese",
+        "nameAr": "جبن إضافي",
+        "nameEn": "Extra Cheese",
+        "price": 2
+      },
+      {
+        "id": "pomegranate",
+        "nameAr": "رمان / دبس رمان",
+        "nameEn": "Pomegranate Seeds/Glaze",
+        "price": 1
+      },
+      {
+        "id": "team-sauce",
+        "nameAr": "صوص برجر تيم الخاص",
+        "nameEn": "Burger Team Signature Sauce",
+        "price": 2
+      },
+      {
+        "id": "potato-seasoning",
+        "nameAr": "بهارات بطاطس خاصة",
+        "nameEn": "Fries House Seasoning",
+        "price": 2
+      },
+      {
+        "id": "jalapeno",
+        "nameAr": "قطع هالبينو حار",
+        "nameEn": "Spicy Jalapeños",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "spec-dessert",
+    "code": "DS-02",
+    "nameAr": "حلا",
+    "nameEn": "Daily Dessert",
+    "descriptionAr": "حلا برجر تيم الخاص اللذيذ لختام مميز لوجبتك.",
+    "descriptionEn": "Fresh delicious daily house sweet dessert.",
+    "category": "desserts",
+    "basePrice": 5,
+    "image": "/assets/images/craft_burger_combo_1794201941193.jpg",
+    "calories": 240,
+    "inStock": true,
+    "stockCount": 40,
+    "isPopular": true
+  }
+]
